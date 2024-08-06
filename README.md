@@ -8,7 +8,7 @@ In this lab, you will be using the northwind database.
 
 ## Getting Started
 
-In this lab you will be working on [main.ipynb](main.ipynb). To launch it, first navigate to the directory that contains `main.ipynb` in Terminal, then execute `jupyter notebook`. In the webpage that is automatically opened, click the `main.ipynb` link to launch it.
+In this lab you will be working on [main.ipynb](main.ipynb). To launch it, first navigate to the `your-code` directory that contains `main.ipynb` in Terminal, then execute `jupyter notebook`. In the webpage that is automatically opened, click the `main.ipynb` link to launch it.
 
 When you are on `main.ipynb`, read the instructions for each cell and provide your answers. Edit the jupyter notebook cells and enter your `sql` code within. 
 
